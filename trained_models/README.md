@@ -1,0 +1,1 @@
+This folder contains three 2-residual-block networks trained on HRTEM images from Groschner et al. Microscopy and Microanalysis (2021). These trained networks are used in the Fourier filtering workflow notebook.
