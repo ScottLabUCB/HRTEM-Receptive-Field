@@ -1,4 +1,5 @@
 import numpy as np
+import h5py
 
 def xray_correct_threshold(image,threshold=3000):
     # Removes x-ray outliers by finding pixels that are above a certain threshold above the median
